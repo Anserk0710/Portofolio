@@ -8,7 +8,7 @@ const PROFILE = {
   name: "Kresna",
   role: "Junior Fullstack Developer",
   city: "Jakarta, Indonesia",
-  site: "aul.dev",
+  site: "askksa.vercel.app",
   available: true,
   bio: "Full-Stack Developer (Entry-Level/Junior) yang sedang membangun proyek end-to-end dengan React + Tailwind di frontend dan Python/FastAPI di backend. Terbiasa membuat CRUD, autentikasi dasar, dan integrasi REST API. Saat ini aktif memperkuat praktik clean code, Git workflow, dan deployment sederhana.",
   links: {
